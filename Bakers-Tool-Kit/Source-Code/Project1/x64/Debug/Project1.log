@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Visual-Studio-Projects\Project1\Project1\main.cpp(30,13): warning C4129: 'S': unrecognized character escape sequence
+D:\Visual-Studio-Projects\Project1\Project1\main.cpp(31,13): warning C4129: 'T': unrecognized character escape sequence
+D:\Visual-Studio-Projects\Project1\Project1\main.cpp(40,13): warning C4129: 'm': unrecognized character escape sequence
+  Project1.vcxproj -> D:\Visual-Studio-Projects\Project1\x64\Debug\Project1.exe
